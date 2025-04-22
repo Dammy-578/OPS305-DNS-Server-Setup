@@ -38,11 +38,6 @@ This project involved configuring and securing a DNS system in AWS using two EC2
 
 ---
 
-## 📎 Files Included
-- `assignment1.pdf`: Full assignment submission with terminal output and configuration screenshots
-
----
-
 ## ✅ Project Status
 - ✔️ DNS zones working for forward & reverse lookups  
 - ✔️ Zone transfers between primary and secondary servers  
